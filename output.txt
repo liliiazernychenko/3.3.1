@@ -1,0 +1,2 @@
+Max area: 7853.981633974483
+Figure type: Ball

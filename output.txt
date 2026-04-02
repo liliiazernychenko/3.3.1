@@ -1,2 +1,0 @@
-Max area: 1963.4954084936207
-Figure type: Circle
